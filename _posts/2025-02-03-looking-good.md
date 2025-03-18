@@ -19,8 +19,7 @@ Starship Delivery for 02/03/2024! We've been working hard on getting some visual
 
 <div class="container">
   <div class="image">
-    <image width="640" height="480">
-      <source src="/assets/images/2025-02-03-Ship.png">
+    <img src="/assets/images/2025-02-03-Ship.png" alt="A WIP ship exterior" width="640" height="480">
   </div>
 
   <div class="video">
@@ -35,8 +34,5 @@ Starship Delivery for 02/03/2024! We've been working hard on getting some visual
     </video>
   </div>
 
-  <div class="image">
-    <image width="640" height="480">
-      <source src="/assets/images/2025-02-03-TestLevel.png">
-  </div>
+  <img src="/assets/images/2025-02-03-TestLevel.png" alt="The beginnings of a Test Level layout" width="640" height="480">
 </div>

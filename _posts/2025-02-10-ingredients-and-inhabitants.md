@@ -1,3 +1,4 @@
+---
 title: "Ingredients and Inhabitants"
 date: 2025-02-10
 categories:
@@ -22,7 +23,11 @@ Vast Supper 02/03-02/09 updates:
     </video>
   </div>
 
-  <img src="https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/2025-02-10-LavaSlug.png" alt="The beginnings of a Test Level layout" width="640" height="480">
+  <div class="image">
+    <img src="https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/2025-02-10-LavaSlug.png" alt="The beginnings of a Test Level layout" width="640" height="480">
+  </div>
 
-  <img src="https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/2025-02-10-Cinderwheat.png" alt="The beginnings of a Test Level layout" width="640" height="480">
+  <div class="image">
+    <img src="https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/2025-02-10-Cinderwheat.png" alt="The beginnings of a Test Level layout" width="640" height="480">
+  </div>
 </div>

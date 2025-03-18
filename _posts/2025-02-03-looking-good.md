@@ -34,5 +34,7 @@ Starship Delivery for 02/03/2024! We've been working hard on getting some visual
     </video>
   </div>
 
-  <img src="https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/2025-02-03-TestLevel.png" alt="The beginnings of a Test Level layout" width="640" height="480">
+  <div class="image">
+    <img src="https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/2025-02-03-TestLevel.png" alt="The beginnings of a Test Level layout" width="640" height="480">
+  </div>
 </div>

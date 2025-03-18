@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   this side of the galactic center! Wishlist us on Steam!
 twitter_username: username
 github_username: Starship_Delivery
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "plum"
 search: true
 
 # Build settings
@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "The Vast Supper"
-  avatar : "/assets/images/SaltGeode.jpg"
+  avatar : "https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/SaltGeode.jpg"
   bio    : "The Vast Supper is an upcoming exploration cooking game. Forage for ingredients during the day, bring them back and cook them into dishes at night! Serve them to the locals, and prove yourself the best chef this side of the galactic center! Wishlist us on Steam!"
   links:
     - label: "Website"

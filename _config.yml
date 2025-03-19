@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Vast Supper
+title: Starship Delivery
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The Vast Supper is an upcoming exploration cooking game. Forage for
@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Starship Delivery"
+  name   : "The Vast Supper"
   avatar : "/assets/images/2025-02-10-LavaSlug.png"
   bio    : "The Vast Supper is an upcoming exploration cooking game. Forage for ingredients during the day, bring them back and cook them into dishes at night! Serve them to the locals, and prove yourself the best chef this side of the galactic center! Wishlist us on Steam!"
   links:

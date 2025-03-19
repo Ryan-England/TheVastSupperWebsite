@@ -59,8 +59,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "The Vast Supper"
-  avatar : "https://github.com/Ryan-England/TheVastSupperWebsite/raw/refs/heads/main/assets/images/SaltGeode.jpg"
+  name   : "Starship Delivery"
+  avatar : "/assets/images/2025-02-10-LavaSlug.png"
   bio    : "The Vast Supper is an upcoming exploration cooking game. Forage for ingredients during the day, bring them back and cook them into dishes at night! Serve them to the locals, and prove yourself the best chef this side of the galactic center! Wishlist us on Steam!"
   links:
     - label: "Website"

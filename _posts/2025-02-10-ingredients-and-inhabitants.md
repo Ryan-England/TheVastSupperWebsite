@@ -11,10 +11,14 @@ tags:
 ---
 
 Vast Supper 02/03-02/09 updates:
-- 🌋  Worked on creating our Lava asset, a common obstacle in this world.
-- 🐌  Here's a WIP glimpse at the alien species for this level, inspired by the banana slugs around campus!
-- 🌾  Similarly, here's a look at the Cinderwheat you'll be able to collect throughout the level, to grind up and bake into bread!
-- 🤤  Worked on our cooking systems this week, although unfortunately they are still under development for now. Look forward to seeing them next Monday! 🤞
+
+🌋  Worked on creating our Lava asset, a common obstacle in this world.
+
+🐌  Here's a WIP glimpse at the alien species for this level, inspired by the banana slugs around campus!
+
+🌾  Similarly, here's a look at the Cinderwheat you'll be able to collect throughout the level, to grind up and bake into bread!
+
+🤤  Worked on our cooking systems this week, although unfortunately they are still under development for now. Look forward to seeing them next Monday! 🤞
 
 <div class="container">
   <div class="video">
